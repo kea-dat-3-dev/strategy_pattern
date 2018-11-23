@@ -4,7 +4,7 @@ _Agenda for Strategy Pattern_
 > **Design Principle 1**   
 > Identify the aspects of your code that vary and seperate them from what stays the same.
 
-or said in other words
+or in other words
 
 > **Encasulate what varies**    
 > If some aspects of your code is changing    
