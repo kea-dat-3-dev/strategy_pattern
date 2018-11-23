@@ -1,6 +1,10 @@
 # strategy_pattern
 Agenda for Strategy Pattern
 
+Design Prciple #1
+
+
+
 ## Example
 
 * DuckOMaticGame
