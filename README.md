@@ -1,7 +1,7 @@
-# strategy_pattern
-Agenda for Strategy Pattern
+# Strategy Pattern
+_Agenda for Strategy Pattern_
 
-> Design Prciple 1    
+> ### Design Prciple 1    
 > Identify the aspects of your code that vary and seperate them from what stays the same.
 
 
