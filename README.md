@@ -12,10 +12,16 @@ or in other words
 
 
 
+
+
+
 ## Example
 
 * DuckOMaticGame
 
+* Create: Spring Application that with a dropdown sets what the ducks bahaviours are
+
+* Show the strategy pattern in a Spring boot application - the @autowired, @repository and the xml.pom file 
 
 ## Exercises
 * Transport to Airport [eks](https://sourcemaking.com/design_patterns/strategy)
