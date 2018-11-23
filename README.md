@@ -6,9 +6,9 @@ _Agenda for Strategy Pattern_
 
 or in other words
 
-> **Encasulate what varies**    
-> If some aspects of your code is changing    
-> That´s a sign that you should pull it out (**cut**/paste) and seperate it (**paste** it in to its own class)
+>> **Encasulate what varies**    
+>> If some aspects of your code is changing    
+>> That´s a sign that you should pull it out (**cut**/paste) and seperate it (**paste** it in to its own class)
 
 
 
