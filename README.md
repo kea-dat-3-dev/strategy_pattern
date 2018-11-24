@@ -8,7 +8,7 @@ _Agenda for Strategy Pattern_
 >> If some aspects of your code is changing    
 >> That´s a sign that you should pull it out (**cut**/paste) and seperate it (**paste** it in to its own class)
 
-
+Use Inheritance for the beahaviour that is the same for all, and composition for the behaviours that differs.
 
 
 
